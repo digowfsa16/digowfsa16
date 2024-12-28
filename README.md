@@ -25,4 +25,4 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 **Rodrigo de Oliveira**  
 
-(Meu Curriculo)[https://digowfsa16.github.io/cv/]
+[Meu Curriculo](https://digowfsa16.github.io/cv/)
