@@ -24,3 +24,5 @@ Após alguns anos focado em áreas mais voltadas para infraestrutura e análise 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Se você quer trocar ideias, discutir sobre tecnologia ou projetos, fique à vontade para me contatar!
 
 **Rodrigo de Oliveira**  
+
+(Meu Curriculo)[https://digowfsa16.github.io/cv/]
