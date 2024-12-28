@@ -1,4 +1,4 @@
-# Olá, sou Rodrigo de Oliveira 👋
+# Olá, sou Rodrigo de Oliveira 👋 ([Meu Curriculo](https://digowfsa16.github.io/cv/) )
 
 ## 📍 Localização
 Sou de **Alagoinhas**, uma cidade no interior da **Bahia**, Brasil.
@@ -25,4 +25,4 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 **Rodrigo de Oliveira**  
 
-[Meu Curriculo](https://digowfsa16.github.io/cv/)
+
