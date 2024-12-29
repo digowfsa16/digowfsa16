@@ -5,7 +5,7 @@ Sou de **Alagoinhas**, uma cidade no interior da **Bahia**, Brasil.
 
 ## 💼 Sobre mim
 
-Minha trajetória profissional começou em uma **empresa de manutenção de computadores e impressoras**, onde passei **3 anos** realizando **manutenção em computadores, notebooks e impressoras**. Esse período foi fundamental para desenvolver uma base sólida em tecnologia, infraestrutura e resolução de problemas.
+  Minha trajetória profissional começou em uma **empresa de manutenção de computadores e impressoras**, onde passei **3 anos** realizando **manutenção em computadores, notebooks e impressoras**. Esse período foi fundamental para desenvolver uma base sólida em tecnologia, infraestrutura e resolução de problemas.
 
 Após essa experiência, ingressei em uma **empresa de sistemas**, onde atuei com **implantação e suporte a sistemas** de **postos de gasolina e supermercados**, aprofundando meus conhecimentos em soluções de TI aplicadas a diferentes tipos de negócios.
 
